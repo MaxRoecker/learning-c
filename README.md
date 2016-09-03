@@ -1,2 +1,2 @@
-# learning-c
-A journey to learning the C Programming Language.
+# Learning C
+  > A journey to learning the C Programming Language.
