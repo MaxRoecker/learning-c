@@ -2,7 +2,7 @@
   > A journey to learning the C Programming Language.
 
 [![License MIT](http://img.shields.io/:license-mit-ff2650.svg?style=flat-square)](http://MaxRoecker.mit-license.org)
-[![Personal Project](https://img.shields.io/badge/personal-project-ffb934.svg?style=flat-square)]
+![Personal Project](https://img.shields.io/badge/personal-project-ffb934.svg?style=flat-square)
 
 ---
 
